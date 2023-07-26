@@ -1,0 +1,26 @@
+{
+  "code": "DMG-MMSA-0",
+  "slug": "kidoutai-1",
+  "contributor": "kay_kidoutai",
+  "index": 1,
+  "shell": {
+    "code": "DMG-MMSA-JPN",
+    "stamp": "02"
+  },
+  "board": {
+    "label": "DMG-A20-01",
+    "circled_letters": "4",
+    "extra_label": "2-5",
+    "year": 1999,
+    "month": 9,
+    "u1": {
+      "label": "MegaChips MX15002UCA 9941"
+    },
+    "u2": {
+      "label": "MX E993612 29F008ATC-14 21538 TAIWAN"
+    },
+    "u3": {
+      "label": "UT621024SC-70LL 9938"
+    },
+  }
+}

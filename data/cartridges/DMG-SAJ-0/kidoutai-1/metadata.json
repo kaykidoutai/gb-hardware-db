@@ -1,0 +1,26 @@
+{
+  "code": "DMG-SAJ-0",
+  "slug": "kidoutai-1",
+  "contributor": "Kay Kidoutai",
+  "index": 1,
+  "shell": {
+    "code": "DMG-SAJ",
+    "stamp": "23"
+  },
+  "board": {
+    "label": "DMG-GDAN-01",
+    "circled_letters": "I",
+    "extra_label": "2",
+    "year": 1989,
+    "month": 1,
+    "u1": {
+      "label": "NEC JAPAN DMG-SAJ-0 C1 UPD23C1001EGW-J01 8952E9704"
+    },
+    "u2": {
+      "label": "Nintendo DMG MBC2A N9003BE"
+    },
+    "u3": {
+      "label": "9LS 26A"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "code": "DMG-K9E-0",
+  "slug": "kidoutai-1",
+  "contributor": "Kay Kidoutai",
+  "index": 1,
+  "shell": {
+    "code": "DMG-K9-USA",
+    "stamp": "23"
+  },
+  "board": {
+    "label": "DMG-GDAN-03",
+    "circled_letters": "I",
+    "extra_label": "5",
+    "year": 1993,
+    "month": 11,
+    "u1": {
+      "label": "DMG-K9E-0 D1 2P7 AK 9341 R10"
+    },
+    "u2": {
+      "label": "DMG MBC2-A Nintendo P 2*94"
+    },
+    "u3": {
+      "label": "6129 3742"
+    }
+  }
+}

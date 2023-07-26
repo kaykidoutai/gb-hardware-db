@@ -1,0 +1,29 @@
+{
+  "code": "DMG-AP2J-0",
+  "slug": "kidoutai-1",
+  "contributor": "kay_kidoutai",
+  "index": 2,
+  "shell": {
+    "code": "DMG-AP2J-JPN",
+    "stamp": "22"
+  },
+  "board": {
+    "label": "DMG-DECN-02",
+    "circled_letters": "I",
+    "extra_label": "5",
+    "year": 1996,
+    "month": 11,
+    "u1": {
+      "label": "DMG-AP2J-0 S LH534MVD JAPAN E1 9642 D"
+    },
+    "u2": {
+      "label": "DMG MBC1-B Nintendo P 6'07"
+    },
+    "u3": {
+      "label": "HY6264A LLJ-10 9632B KOREA"
+    },
+    "u4": {
+      "label": "635 26A"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "code": "DMG-APBJ-1",
+  "slug": "kidoutai-1",
+  "contributor": "Kay Kidoutai",
+  "index": 1,
+  "shell": {
+    "code": "DMG-APBJ-JPN",
+    "stamp": "20A"
+  },
+  "board": {
+    "label": "DMG-DEDN-01",
+    "circled_letters": "I",
+    "extra_label": "4",
+    "year": 1996,
+    "month": 11,
+    "u1": {
+      "label": "DMG-APBJ-1 S LH534MV2 JAPAN E1 9642 E"
+    },
+    "u2": {
+      "label": "DMG MBC1B1 Nintendo S 9640 1 A"
+    },
+    "u3": {
+      "label": "LH52B256NZ-10PLL MOSEL-VITELIC JAPAN N636 03 CB"
+    },
+    "u4": {
+      "label": "6129A 6A60"
+    }
+  }
+}
