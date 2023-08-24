@@ -221,7 +221,7 @@ pub fn to_legacy_year(year_hint: Option<u16>, chip_year: Option<Year>) -> Option
         _ => None,
     })
     .map(|year| {
-        assert!(year >= 1988 && year < 2010);
+        assert!(year >= 1984 && year < 2010);
         year
     })
 }
